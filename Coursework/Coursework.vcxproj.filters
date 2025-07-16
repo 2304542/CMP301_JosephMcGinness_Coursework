@@ -88,12 +88,6 @@
     <FxCompile Include="shadow_vs.hlsl">
       <Filter>Resource Files</Filter>
     </FxCompile>
-    <FxCompile Include="light_ps.hlsl">
-      <Filter>Resource Files</Filter>
-    </FxCompile>
-    <FxCompile Include="light_vs.hlsl">
-      <Filter>Resource Files</Filter>
-    </FxCompile>
     <FxCompile Include="verticalblur_ps.hlsl">
       <Filter>Resource Files</Filter>
     </FxCompile>

@@ -97,7 +97,7 @@ void ShadowShader::initShader(const wchar_t* vsFilename, const wchar_t* psFilena
 	renderer->CreateBuffer(&lightBufferDesc, NULL, &lightBuffer);
 
 	heightmapBufferDesc.Usage = D3D11_USAGE_DYNAMIC;
-	heightmapBufferDesc.ByteWidth = sizeof(TimeBufferType);
+	heightmapBufferDesc.ByteWidth = sizeof(HeightmapBufferType);
 	heightmapBufferDesc.BindFlags = D3D11_BIND_CONSTANT_BUFFER;
 	heightmapBufferDesc.CPUAccessFlags = D3D11_CPU_ACCESS_WRITE;
 	heightmapBufferDesc.MiscFlags = 0;
