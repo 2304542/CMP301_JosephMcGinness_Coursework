@@ -29,13 +29,7 @@ private:
 		XMFLOAT4 position[2];
 	
 	};
-	struct TimeBufferType
-	{
-		float time;
-		float amplitude;
-		float speed;
-		float frequency;
-	};
+
 	struct HeightmapBufferType
 	{
 		float maxHeight;
