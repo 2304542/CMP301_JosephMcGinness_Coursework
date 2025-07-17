@@ -1,2 +1,5 @@
 # CMP301_Libraries
-Additional libraries required for CMP301 graphics labs
+CMP301 2024/5
+Name: Joseph McGinness
+Student ID: 2304542
+Lecturer: Erin Hughes
